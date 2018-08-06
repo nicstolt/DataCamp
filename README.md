@@ -2,4 +2,7 @@
 
 Notes from the DataCamp courses that I have completed.
 
-''' blaah '''
+```python
+s = "Python syntax highlighting"
+print s
+```
