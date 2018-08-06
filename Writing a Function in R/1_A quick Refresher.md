@@ -10,7 +10,7 @@
 
 ## Writing a function
 
-''' R 
+``` R 
 # Define ratio() function
 ratio <- function(x, y) {
   x / y
@@ -18,7 +18,7 @@ ratio <- function(x, y) {
 
 # Call ratio() with arguments 3 and 4
 ratio(3,4)
-'''
-''' R 
+```
+``` R 
 ## [1] 0.75
-'''
+```
