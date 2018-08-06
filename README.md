@@ -1,3 +1,3 @@
 # DataCamp
 
-DataCamp case studies that I have completed.
+Notes from the DataCamp courses that I have completed.
