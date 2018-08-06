@@ -1,12 +1,12 @@
 # Writing a function in R
 
 ## Notes
-* The parts of a function 
-** Argument
-** Body 
-** Environment
-* Return value is the last evaluated expression or the first evaluated ''' R return() ''' expression
-* Functions can be treated like usual R objects
+1. The parts of a function:
+* Argument
+* Body 
+* Environment
+2. Return value is the last evaluated expression or the first evaluated ''' R return() ''' expression
+3. Functions can be treated like usual R objects
 
 ## Writing a function
 
