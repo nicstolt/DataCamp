@@ -2,7 +2,7 @@
 
 Notes from the DataCamp courses that I have completed.
 
-```python
+```R
 s = "Python syntax highlighting"
 print s
 ```
