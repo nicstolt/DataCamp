@@ -1,5 +1,5 @@
-Writing a function in R
-
+# Writing a function in R
+ldsf m
 # Define ratio() function
 ratio <- function(x, y) {
   x / y
